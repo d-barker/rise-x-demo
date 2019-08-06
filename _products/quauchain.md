@@ -6,7 +6,7 @@ tags:
 - LNG
 - Singapore
 - Ports
-title: QuauChain
+title: QuayChain
 sub_heading: Fuelling the future
 banner_image: ''
 slug: ''
